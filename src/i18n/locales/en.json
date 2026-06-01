@@ -1,0 +1,301 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Our Services",
+    "track": "Track Shipment",
+    "about": "About Araak Logistics",
+    "partners": "Partners",
+    "contact": "Contact Us",
+    "get_quote": "Get a Quote"
+  },
+  "footer": {
+    "about_title": "About Araak Logistics",
+    "about_desc": "Your smart logistics partner from door to the world. Leading the supply chain transformation in the Middle East.",
+    "location": "HQ: Jeddah, Tahlia St.",
+    "services_title": "Our Services",
+    "company_title": "Company",
+    "newsletter_title": "Stay Updated",
+    "newsletter_desc": "Subscribe to get our latest news and offers",
+    "subscribe_btn": "Subscribe",
+    "rights": "All rights reserved",
+    "powered_by": "Powered by ARAAK AI (2026)",
+    "email_placeholder": "Your Email",
+    "links": {
+      "b2b": "Corporate Shipping (B2B)",
+      "b2c": "E-commerce Logistics (B2C)",
+      "b2g": "Government Sectors (B2G)",
+      "hajj": "Hajj & Umrah Logistics",
+      "customs": "Customs Clearance",
+      "air_cargo": "Dedicated Air Cargo",
+      "door_to_door": "Door-to-Door Shipping",
+      "full_track": "Full-Track Cargo Monitoring",
+      "about_us": "About Araak Logistics",
+      "partners": "Our Partners",
+      "track": "Track Shipment",
+      "quote": "Get a Quote",
+      "contact": "Contact Us",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "return": "Return Policy"
+    }
+  },
+  "hero": {
+    "badge": "Vision 2030 – The Ideal Logistics Partner",
+    "title_part1": "Leading Supply Chains",
+    "title_part2": "From Door to the World",
+    "description": "We combine deep operational expertise with digital solutions to provide a one-stop shop for all your logistics needs — shipping, warehousing, customs clearance, and delivery across the Kingdom and the Middle East.",
+    "cta_quote": "Get a Quote",
+    "cta_services": "Our Services",
+    "scroll_down": "Scroll Down",
+    "stats": {
+      "clients": "Trusted Clients",
+      "delivery": "Delivery Accuracy",
+      "support": "Continuous Support"
+    },
+    "cards": {
+      "safe_shipment": "Safe Shipment",
+      "insurance": "Full Insurance Coverage",
+      "growth": "Sustainable Growth",
+      "growth_rate": "+30% Annually"
+    }
+  },
+  "services": {
+    "badge": "4-in-1 Business Model",
+    "title": "Services for Every Sector",
+    "subtitle": "A flexible business model integrating four operational paths to ensure diversification and operations sustainability",
+    "order_now": "Order Service Now",
+    "items": {
+      "b2b": {
+        "title": "Corporates & Mega Projects",
+        "segmentEn": "Business to Business",
+        "subtitle": "Integrated solutions for heavy industries, power, and mining sectors",
+        "features": ["Multimodal freight forwarding (Land, Sea, Air)", "Specialized project cargo & heavy lift", "PO management & inventory control", "Massive fleet & global agent network", "Out-of-gauge cargo transport (Oil, Gas, Petrochemicals)"]
+      },
+      "b2c": {
+        "title": "E-Commerce & Individuals",
+        "segmentEn": "Business to Consumer",
+        "subtitle": "Fast delivery & integrated fulfillment solutions for online stores and retail",
+        "features": ["Smart warehousing and pick-and-pack (Fulfillment)", "Express delivery & Cash on Delivery (COD)", "Fast weekly cash remittance for merchants", "Reverse logistics & return management", "Real-time shipment tracking"]
+      },
+      "b2g": {
+        "title": "Government Sectors & Ports",
+        "segmentEn": "Business to Government",
+        "subtitle": "Strategic partnerships to facilitate cross-border trade",
+        "features": ["Sovereign customs clearance (Ports, Airports, Borders)", "Exemption customs setups & temporary import procedures", "Handling hazardous & restricted materials", "Permits extraction & complete documentation", "Full verification of shipping documents"]
+      },
+      "b2service": {
+        "title": "Specialized Solutions & Logistics",
+        "segmentEn": "Business to Service",
+        "subtitle": "Vital logistics for Pilgrims and dedicated specialized cargo services",
+        "features": ["Pilgrims services (Hajj & Umrah)", "Luggage transfer from airports to Makkah and Madinah", "Door to site shipping (DDP / DDU)", "Dedicated Air Cargo Chartering", "City Terminal – Luggage weight and check-in hubs"]
+      },
+      "door_to_door": {
+        "title": "Door-to-Door Shipping",
+        "segmentEn": "Door to Door Service",
+        "subtitle": "End-to-end cargo solutions starting from the supplier's site straight to your warehouse",
+        "features": ["Direct pickup from international factories and origin warehouses", "Complete handling of inbound, outbound, and cross-border customs clearance", "Secure delivery directly to your premises or final warehouse with zero third-party dependency", "Comprehensive supply chain management across multimodal freight routes", "Full provision of cargo insurance, secure loading, and transit documentation"]
+      },
+      "full_track": {
+        "title": "Full-Track Cargo Monitoring",
+        "segmentEn": "Full Track Solution",
+        "subtitle": "An intelligent digital system providing complete visibility over your fleet and shipments",
+        "features": ["Real-time live telemetry tracking (24/7) powered by advanced satellite systems", "Centralized digital dashboard to monitor exact routes, departure points, and estimated arrivals", "Smart notification framework with automated Geofencing alerts for boundary entry and exit", "Detailed, automated reports on operational efficiency, transit times, and driver behavior", "Seamless API integration bridging live tracking telemetry into inventory and ERP systems"]
+      },
+      "air_freight": { "title": "Express Air Freight" },
+      "sea_freight": { "title": "Sea Freight" },
+      "land_transport": { "title": "Land Transport" },
+      "customs_clearance": { "title": "Customs Clearance" }
+    }
+  },
+  "track": {
+    "badge": "Live Tracking",
+    "title": "Track Your Shipment",
+    "subtitle": "Enter your tracking number to check your shipment status in real-time",
+    "placeholder": "Enter tracking number (e.g., ARK-2024-001)",
+    "button": "Track",
+    "demo_hint": "Try:",
+    "or": "or",
+    "error_msg": "An error occurred during search. Please try again later.",
+    "not_found_title": "Shipment Not Found",
+    "not_found_desc": "Please check the tracking number and try again",
+    "timeline_title": "Shipment Stages",
+    "status": {
+      "in_transit": "In Transit",
+      "delivered": "Delivered",
+      "pending": "Pending",
+      "customs": "Customs Clearance"
+    },
+    "details": {
+      "origin": "Origin",
+      "destination": "Destination",
+      "current_loc": "Current Location",
+      "estimated_date": "Estimated Delivery"
+    },
+    "events": {
+      "shipment_created": "Shipment created and being processed",
+      "picked_up": "Shipment picked up from sender",
+      "in_transit": "Shipment in transit between facilities",
+      "arrived_at_facility": "Arrived at sorting facility",
+      "out_for_delivery": "Out for delivery with courier",
+      "delivered": "Shipment successfully delivered"
+    }
+  },
+  "quote": {
+    "badge": "Request a Quote",
+    "title": "Request Your Service Now",
+    "subtitle": "Enter your shipment details and we will contact you as soon as possible with the best quote",
+    "sections": { "service_type": "Service Type" },
+    "services": {
+      "b2b": { "label": "Corporates & Projects", "desc": "For major business & projects" },
+      "b2c": { "label": "E-Commerce", "desc": "For stores & individuals" },
+      "b2g": { "label": "Government", "desc": "For government sectors" },
+      "b2service": { "label": "Specialized", "desc": "Hajj, Umrah & Air Cargo" }
+    },
+    "fields": {
+      "name": { "label": "Full Name", "placeholder": "John Doe" },
+      "email": { "label": "Email Address", "placeholder": "example@email.com" },
+      "phone": { "label": "Phone Number", "placeholder": "+966 5X XXX XXXX" },
+      "company": { "label": "Company Name (Optional)", "placeholder": "Company name..." },
+      "shipment": {
+        "origin_label": "Pickup Location",
+        "origin_placeholder": "Jeddah, Saudi Arabia",
+        "dest_label": "Delivery Location",
+        "dest_placeholder": "Riyadh, Saudi Arabia",
+        "weight_label": "Weight (KG)",
+        "dim_label": "Dimensions (Optional)",
+        "dim_placeholder": "50x40x30 cm",
+        "desc_label": "Cargo Description (Optional)",
+        "desc_placeholder": "Mention cargo type or special requirements..."
+      },
+      "submit_btn": "Send Quote Request"
+    },
+    "errors": {
+      "name": "Full name is required",
+      "email": "Valid email is required",
+      "phone": "Phone number is required",
+      "origin": "Pickup location is required",
+      "destination": "Delivery location is required",
+      "server": "An error occurred during submission, please try again later."
+    },
+    "success": {
+      "title": "Request Sent Successfully!",
+      "desc": "Araak Logistics team will contact you within 24 hours to discuss your requirements and provide the best quote.",
+      "btn": "Send Another Request"
+    }
+  },
+  "partners": {
+    "badge": "Partnership Network",
+    "title": "Our Partners & Achievements",
+    "subtitle": "We pride ourselves on building extended relations backed by trust and successful track records with top global organizations",
+    "achievements": {
+      "iso": "ISO 9001 Quality Certificate",
+      "iata": "IATA Cargo Membership",
+      "fiata": "FIATA International Federation",
+      "vision": "KSA Vision 2030 Partner"
+    },
+    "categories": {
+      "air_cargo": "Air Cargo Partners",
+      "banking": "Banking Partners",
+      "clearance": "Customs Clearance Partners",
+      "hajj": "Hajj Pilgrims Organizers"
+    },
+    "cta": {
+      "title": "Want to Become a Partner?",
+      "desc": "Join Araak Logistics partners network and leverage our operational expertise and global reach.",
+      "btn": "Contact Us Now"
+    }
+  },
+  "why_araak": {
+    "node_badge": "Why Araak Logistics?",
+    "main_title": "Competitive Advantages",
+    "accent_title": "That Make The Difference",
+    "description": "Araak Logistics combines robust operational legacy with cutting-edge digital infrastructure to offer an unparalleled, integrated logistics experience in the region.",
+    "badge": { "title": "Transformation Partner", "subtitle": "Deep Operational Expertise" },
+    "vision": {
+      "title": "Our Strategic Vision",
+      "desc": "To be the most efficient and reliable digital & logistical artery in the Middle East by innovating flexible solutions connecting global markets with the local consumer."
+    },
+    "features": {
+      "transparency": { "title": "Full Transparency & Smart Tracking", "desc": "Track your shipments step-by-step through a unified digital platform powered by Full Track monitoring and regular performance reports." },
+      "speed": { "title": "Speed, Efficiency & Door-to-Door Execution", "desc": "Same-day delivery for retail sectors along with streamlined Door-to-Door shipping, coupled with the fastest quote response time in the market." },
+      "integration": { "title": "Digital Integration", "desc": "Seamless API integration for supply chain management and inventory control, ensuring automated data flow." },
+      "compliance": { "title": "Reliability & Compliance", "desc": "Fully compliant and operating under official regulatory licenses from concerned Saudi authorities and ministries." },
+      "pricing": { "title": "Competitive Pricing", "desc": "Dynamic pricing architecture tailored to operation volumes to ensure the highest ROI for our business partners." },
+      "vision": { "title": "Vision 2030 Aligned", "desc": "A strategic partner keeping pace with economic transformation goals and the development of the Kingdom's logistics ecosystem." }
+    }
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "We Are Here to Help",
+    "subtitle": "Our specialized team is ready to answer your inquiries and provide the ideal logistical solutions",
+    "info": {
+      "address": { "title": "Headquarters", "value": "Tahlia Street, Jeddah, Saudi Arabia" },
+      "email": { "title": "Email Address" },
+      "website": { "title": "Website" }
+    },
+    "social": {
+      "title": "Follow Us On",
+      "coming_soon": "Coming Soon – Full integration with social platforms"
+    },
+    "fields": {
+      "name": { "label": "Name", "placeholder": "Your full name" },
+      "email": { "label": "Email Address" },
+      "phone": { "label": "Phone Number (Optional)" },
+      "subject": { "label": "Subject", "placeholder": "Subject of your message" },
+      "message": { "label": "Message", "placeholder": "Write your message here..." }
+    },
+    "buttons": { "submit": "Send Message" },
+    "errors": {
+      "required_fields": "Please fill in all required fields",
+      "server_error": "An error occurred during submission, please try again later."
+    },
+    "success": {
+      "title": "Your Message Has Been Sent!",
+      "desc": "Our support team will get back to you as soon as possible.",
+      "btn": "Send Another Message"
+    }
+  },
+ "quote": {
+  "title": "Request a Shipment Quote",
+  "subtitle": "Enter your shipment details and our logistics experts will provide the optimal offer",
+  "sections": {
+    "service_type": "Required Service Type"
+  },
+  "services": {
+    "b2b": { "label": "Corporate Services B2B" },
+    "b2c": { "label": "Individual Services B2C" },
+    "b2g": { "label": "Government Sector B2G" },
+    "b2service": { "label": "Special Services" }
+  },
+  "fields": {
+    "name": {
+      "label": "Full Name / Contact Person *",
+      "placeholder": "Enter your full name"
+    },
+    "email": {
+      "label": "Business Email *",
+      "placeholder": "name@company.com"
+    },
+    "company": {
+      "label": "Company / Organization Name *",
+      "placeholder": "Enter your company name"
+    },
+    "phone": {
+      "label": "Phone / Mobile Number *",
+      "placeholder": "e.g., +966551596477"
+    },
+    "shipment": {
+      "origin_label": "Pickup Location (Origin) *",
+      "origin_placeholder": "e.g., Riyadh",
+      "dest_label": "Delivery Location (Destination) *",
+      "dest_placeholder": "e.g., Jeddah"
+    },
+    "submit_btn": "Submit Request"
+  },
+  "success": {
+    "title": "Your request has been submitted successfully!",
+    "desc": "Our team will contact you within 24 hours to provide an optimal quote for your shipment.",
+    "btn": "Submit a New Request"
+  }
+}
+}
